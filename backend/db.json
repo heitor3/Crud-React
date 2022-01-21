@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Heitor Fernandes Pires",
+      "email": "heitorfernandes.3@gmail.com",
+      "github": "heitor3"
+    },
+    {
+      "id": 2,
+      "name": "Henrique Vitor",
+      "email": "henryv7@gmail.com",
+      "github": "henryv7"
+    },
+    {
+      "id": 3,
+      "name": "Eduardo 'Chris' Henrique",
+      "email": "chris@gmail.com",
+      "github": "eduahcb"
+    }
+  ]
+}
